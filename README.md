@@ -1,9 +1,9 @@
-# [![Artsem Levitsky Header](https://raw.githubusercontent.com/IchigoWalker/IchigoWalker/img/background.png?raw=true)](https://ichigowalker.com)
+# [![Artsem Levitsky Header](https://raw.githubusercontent.com/IchigoWalker/IchigoWalker/master/img/background.png)](https://ichigowalker.com)
 
 <p align='center'>
 <a href="https://vk.com/ichigowalker"><img height="30" src="https://vk.com/images/icons/pwa/apple/default.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/ichig0walker/"><img height="30" src="https://www.instagram.com/favicon.ico"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/artem-levitsky/"><img height="30" src="https://raw.githubusercontent.com/IchigoWalker/IchigoWalker/img/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/artem-levitsky/"><img height="30" src="https://raw.githubusercontent.com/IchigoWalker/IchigoWalker/master/img/linkedin.png?raw=true"></a>
 </p>
 
 Hey there 👋,
