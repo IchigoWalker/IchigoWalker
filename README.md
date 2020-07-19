@@ -8,7 +8,7 @@
 
 Hey there 👋,
 
-I create web apps, game mods and usefull tools mainly with **NodeJS**. I have a passion for learning and developing cool things. You can see a full list of what I am up to on [ichigowalker.com](https://ichigowalker.com/portfolio). If you found value in something I have created, please feel free to contact me.
+I create web apps, game mods and usefull tools mainly with **NodeJS**. I have a passion for learning and developing cool things. You can see a full list of what I am up to at [ichigowalker.com](https://ichigowalker.com/portfolio). If you found value in something I have created, please feel free to contact me.
 
 <p align='center'>
 <img src="https://visitor-badge.glitch.me/badge?page_id=ichigowalker.visitor-badge">
